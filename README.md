@@ -62,7 +62,7 @@ Clone the repo:
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/tesla-rag.git
+git clone https://github.com/Subhra-Nandi/tesla-rag.git
 
 cd tesla-rag
 
